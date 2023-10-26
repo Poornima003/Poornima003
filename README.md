@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Poornima003
+- MERN stack Developer
 - 👀 I’m interested in developing websites
 - 🌱 I’m currently working in an MNC
 - 💞️ I’m looking to collaborate on open sourse projects
